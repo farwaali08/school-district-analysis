@@ -73,6 +73,11 @@ The revised school summary is as follows:
 The omitted test scores negatively impacted all performance metrics. The average test scores for both reading and math were not impacted as greatly as the passing percentages, which all dropped by nearly 30% each.
 
 
-## **SCHOOL RANKINGS**
+### **SCHOOL RANKINGS**
 
 The omitted data caused THS' performance to drop as a result, removing them from the Top 5 peforming schools. The Bottom 5 ranking was not impacted.
+
+Revised Top 5 Ranking:
+
+![alt_text](https://github.com/farwaali08/school-district-analysis/blob/83c3022c1426d57aa9f4a02acefc13017d4b4857/Top_5.png)
+
