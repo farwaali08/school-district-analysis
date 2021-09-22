@@ -61,14 +61,14 @@ Omitting the dubious test scores did not appear to have an appreciable differenc
 
 ### **SCHOOL SUMMARY**
 
-A list of the revised school summary can be seen below:
+The original school summary can be found below:
 
-![alt_text](https://github.com/farwaali08/school-district-analysis/blob/2380be5da5c3a4fa15050904a9d628a351ed4d66/SCHOOL_SUMMARY2.png)
-
-This format does not best reflect the changes that were observed in the refactored analysis, so the schools were ranked based on their performance.
+![alt_text](https://github.com/farwaali08/school-district-analysis/blob/f01c68852ace92c7335850f461e7531e874e4491/SCHOOL_SUMMARY1.png)
 
 
-*Original Results:*
+The revised school summary is as follows:
 
+![alt_text](https://github.com/farwaali08/school-district-analysis/blob/f01c68852ace92c7335850f461e7531e874e4491/SCHOOL_SUM_REFAC.png)
 
-*Refactored Results:*
+The omitted test scores negatively impacted all performance metrics. The average test scores for both reading and math were not impacted as greatly as the passing percentages, which all dropped by nearly 30%.
+
