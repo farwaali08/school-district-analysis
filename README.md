@@ -56,5 +56,5 @@ Once this step was completed, the script was re-executed and analyzed:
 ![alt_text](https://github.com/farwaali08/school-district-analysis/blob/06bf8b29ec5b0efed0cd250ed90730d528d81efc/district_summary_2.png)
 
 
-Omitting the dubious test scores did not appear to have an appreciable difference on the district summary, and further analysis will be required to determine whether the results are statistically significant. Upon initial review however, it is apparent that all performance metrics, save for the average reading score, were negatively impacted. Although the difference range from 0.1-0.2% 
+Omitting the dubious test scores did not appear to have an appreciable difference on the district summary, and further analysis will be required to determine whether the results are statistically significant. Upon initial review however, it is apparent that all performance metrics, save for the average reading score, were negatively impacted. Although the differences range from 0.1-0.2%, this can be problematic if KPI thresholds are not met.
 
