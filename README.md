@@ -87,3 +87,12 @@ Revised Top 5 Ranking:
 
 ![alt_text](https://github.com/farwaali08/school-district-analysis/blob/83c3022c1426d57aa9f4a02acefc13017d4b4857/Top_5.png)
 
+
+### **OTHER CONSIDERATIONS**
+
+* The "Average Math Scores by Grade & School" and "Average Reading Scores by Grade & School" categories were not impacted by this change, as the data for THS was simply replaced by a value of "NaN". Below is one example, which demonstrates that the other data has remained intact:
+
+     > ![alt_text](https://github.com/farwaali08/school-district-analysis/blob/c636ddfc9588e2e6b0b40622b2062fa76994352e/nan_no_impact.png) 
+
+
+### **SCORES BY SCHOOL SPENDING**
