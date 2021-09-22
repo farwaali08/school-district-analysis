@@ -8,5 +8,18 @@ It was later learned that the standardized test scores for ninth grade students 
 
 In doing so, 461 students records were precluded from the final analysis, which was presented to the board.
 
-## PROCESS
+## TOOLS and RESOURCES
 
+Raw data can be found within the "Resources" folder.
+
+[Student Data (CSV)](https://github.com/farwaali08/school-district-analysis/blob/87c86d29c1de87fb2eb3d07676465312682ac573/Resources/students_complete.csv)
+
+[School Data (CSV)](https://github.com/farwaali08/school-district-analysis/blob/87c86d29c1de87fb2eb3d07676465312682ac573/Resources/schools_complete.csv)
+
+[Cleaned (CSV)](https://github.com/farwaali08/school-district-analysis/blob/87c86d29c1de87fb2eb3d07676465312682ac573/Resources/clean_students_complete.csv)
+
+Data was analyzed using the pandas library in Python 3.9.3,, and visualized in Jupyter Notebook 6.3.0.
+
+[Original Analysis](https://github.com/farwaali08/school-district-analysis/blob/87c86d29c1de87fb2eb3d07676465312682ac573/PyCitySchools.ipynb)
+
+[Refactored Analysis](https://github.com/farwaali08/school-district-analysis/blob/87c86d29c1de87fb2eb3d07676465312682ac573/PyCitySchools_Challenge_starter_code.ipynb)
