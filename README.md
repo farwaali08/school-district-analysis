@@ -58,3 +58,17 @@ Once this step was completed, the script was re-executed and analyzed:
 
 Omitting the dubious test scores did not appear to have an appreciable difference on the district summary, and further analysis will be required to determine whether the results are statistically significant. Upon initial review however, it is apparent that all performance metrics, save for the average reading score, were negatively impacted. Although the differences range from 0.1-0.2%, this can be problematic if KPI thresholds are not met.
 
+
+### **SCHOOL SUMMARY**
+
+A list of the revised school summary can be seen below:
+
+![alt_text](https://github.com/farwaali08/school-district-analysis/blob/2380be5da5c3a4fa15050904a9d628a351ed4d66/SCHOOL_SUMMARY2.png)
+
+This format does not best reflect the changes that were observed in the refactored analysis, so the schools were ranked based on their performance.
+
+
+*Original Results:*
+
+
+*Refactored Results:*
