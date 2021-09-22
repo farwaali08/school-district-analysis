@@ -32,6 +32,12 @@ In the first part of the refactored analysis, 461 student records (each for math
 ![alt_text](https://github.com/farwaali08/school-district-analysis/blob/57b2eb6334d7382702f0c19bd3fa3bdf1b8458e3/NaN1.png)
 
 
+A quick validation was done to ensure that all the necessary records were updated successfully:
+
+
+![alt_text](https://github.com/farwaali08/school-district-analysis/blob/7737c1b38c37e0968c88b1495a9089747d2e1e45/confirmnan.png)
+
+
 
 
 
