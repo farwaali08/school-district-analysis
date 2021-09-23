@@ -92,4 +92,6 @@ Original Top 5 Ranking:
 
 
 * Additionally,
-> **School Size** and **School
+  > While the results do not indicate that an appreciable difference was observed in the **School Size** and **School Spending** categories, it would be expected that a difference would be observed in the overall passing rates. Logically, the removal of inflated scores would negatively impact each metric. As THS is classified as a "Medium Sized" school, the impact would be observed in that category.
+  > For each metric tested, the changes were primarily observed in the passing rates, and not so much the averages.
+  > With respect to **School Type**, it would be expected that the passing rates for Charter schools would be negatively impacted by removing these scores.
