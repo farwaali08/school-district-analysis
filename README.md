@@ -6,7 +6,7 @@ In this analysis, the standardized test scores for 15 schools within a district 
 
 It was later learned that the standardized test scores for ninth grade students at Thomas High School (THS) may be compromised, and after review, it was decided that the original analysis should be refactored to exclude the test scores for this group. 
 
-In doing so, 461 students records (each, for math and reading,) were precluded from the calculations and the final analysis, which was presented to the board.
+In doing so, 461 students records (each, for math and reading,) were precluded from the calculations, as well as the final analysis, which was then presented to the board.
 
 ## TOOLS and RESOURCES
 
