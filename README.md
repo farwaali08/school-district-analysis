@@ -91,7 +91,10 @@ Original Top 5 Ranking:
      > ![alt_text](https://github.com/farwaali08/school-district-analysis/blob/c636ddfc9588e2e6b0b40622b2062fa76994352e/nan_no_impact.png) 
 
 
-* Additionally,
-  > While the results do not indicate that an appreciable difference was observed in the **School Size** and **School Spending** categories, it would be expected that a difference would be observed in the overall passing rates. Logically, the removal of inflated scores would negatively impact each metric. As THS is classified as a "Medium Sized" school, the impact would be observed in that category.
-  > For each metric tested, the changes were primarily observed in the passing rates, and not so much the averages.
-  > With respect to **School Type**, it would be expected that the passing rates for Charter schools would be negatively impacted by removing these scores.
+Additionally,
+
+ > While the results do not indicate that an appreciable difference was observed in the **School Size** and **School Spending** categories, it would be expected that a difference would be observed in the overall passing rates. Logically, the removal of inflated scores would negatively impact each metric. As THS is classified as a "Medium Sized" school, the impact would be observed in that category for School Size, and the "$630-644" category for School Spending.
+  
+ > For each metric tested, the changes were primarily observed in the passing rates, and not so much the averages.
+ 
+ > With respect to **School Type**, it would be expected that the passing rates for Charter schools would be negatively impacted by removing these scores.
