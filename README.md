@@ -98,3 +98,7 @@ Additionally,
  > For each metric tested, the changes were primarily observed in the passing rates, and not so much the averages.
  
  > With respect to **School Type**, it would be expected that the passing rates for Charter schools would be negatively impacted by removing these scores.
+
+## CONCLUSION
+
+The removal of these scores will result in a decrease of all passing percentages (math, reading, and overall) for the categories that pertained to THS characteristics (i.e. Medium-sized charter school, with a per student budget of $630-644. This will also impact the school's ranking amongst other schools in the district.
